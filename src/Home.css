@@ -1,0 +1,62 @@
+body 
+        {
+            background-image : url('main.png');
+            background-repeat : no-repeat;
+            background-size : cover;
+           
+        }
+        #home
+        {
+            font-family: "title";
+            font-size: 150px;
+            color:rgb(230, 255, 255);
+        
+        }
+
+        @font-face 
+        {
+            font-family: "title";
+            src: url("Christmas Time Personal Use.ttf");
+        }
+        @font-face 
+        {
+            font-family: "button";
+            src: url("Monday Monkey.ttf");
+        }
+        #soo_btn1
+        {
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            font-family: "button";
+            position: relative;
+            top: -50px;
+            left: 550px;
+        }
+        #soo_btn2
+        {
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            font-family:"button";
+            position: relative;
+            top: 100px;
+            left: 435px;
+        }
+        #btn_group button
+        {
+            border: 1px;
+            color:rgb(255, 255, 255);
+            padding: 30px;
+            align-items: center;
+            text-align: center; 
+            font-size: 40px;
+            background-color: rgba(255,255,255,0.5);
+            
+        }
+        #btn_group button:hover
+        {
+            background-color: rgb(167, 255, 246);
+        }

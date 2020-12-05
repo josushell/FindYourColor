@@ -1,0 +1,20 @@
+body 
+        {
+            background-image : url('main.png');
+            background-repeat : no-repeat;
+            background-size : cover;
+            font-family: "button";
+            font-size: 50px;
+            color:rgb(230, 255, 255);
+        }
+        @font-face 
+        {
+            font-family: "title";
+            src: url("Christmas Time Personal Use.ttf");
+        }
+        @font-face 
+        {
+            font-family: "button";
+            src: url("Monday Monkey.ttf");
+        }
+        
