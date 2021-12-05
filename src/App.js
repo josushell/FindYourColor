@@ -4,6 +4,7 @@ import Home from './Home';
 import Test from './test';
 import Test2 from './test2';
 import Test3 from './test3';
+import "./App.css";
 
 
 class App extends Component {
