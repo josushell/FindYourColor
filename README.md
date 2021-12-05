@@ -4,4 +4,4 @@
 <img src="https://user-images.githubusercontent.com/72721839/144736566-061b6e4b-027b-44db-8c2a-943608927e73.png" width="500" height="300">
 <img src="https://user-images.githubusercontent.com/72721839/144736657-049665ef-ad69-48c2-b1cc-a7beca431a13.png" width="500" height="300">
 
-https://app.netlify.com/sites/stoic-johnson-e2ed9d/deploys
+https://stoic-johnson-e2ed9d.netlify.app/
